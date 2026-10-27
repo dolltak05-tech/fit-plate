@@ -14,11 +14,6 @@ A healthy diet looks costly and most people do not know how much protein, carbs 
 - Food data kept in a spreadsheet (foods.csv) that anyone can edit
 - Download the weekly plan as a CSV file
 
-## Screenshots
-![Inputs and daily needs](screenshots/home.png)
-![Weekly plan](screenshots/plan.png)
-![Cost per day](screenshots/chart.png)
-
 ## How it works
 1. **Daily calories:** BMR is calculated with the Mifflin-St Jeor formula (10 x weight + 6.25 x height - 5 x age, then +5 for male or -161 for female). It is multiplied by an activity factor (1.2 to 1.725). 400 kcal is subtracted for weight loss or added for muscle gain.
 2. **Macros:** protein = body weight x 1.6 (lose), 1.2 (maintain) or 1.8 (gain) grams. Fat = 25% of calories (9 kcal per gram). Carbohydrate = the remaining calories (4 kcal per gram).
