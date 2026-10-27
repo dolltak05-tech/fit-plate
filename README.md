@@ -2,8 +2,6 @@
 
 A budget-based weekly diet planner built with Python, Pandas, Matplotlib and Streamlit. The user enters a weekly food budget, body details and diet type (Veg or Non-Veg). The app shows the daily calories, protein, carbohydrate and fat needed and builds a 7-day meal plan that tries to stay within the budget.
 
-**Live demo:** https://YOUR-APP-NAME.streamlit.app
-
 ## Why this project
 A healthy diet looks costly and most people do not know how much protein, carbs and fat they need. Fit Plate calculates the needs and plans a full week of meals according to the budget, so planning takes seconds instead of hours.
 
