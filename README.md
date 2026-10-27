@@ -31,7 +31,6 @@ A healthy diet looks costly and most people do not know how much protein, carbs 
 - `app.py` - main program (classes, functions and the web page)
 - `foods.csv` - food data: name, type, meal, serving, price, calories, protein, carbs, fat
 - `requirements.txt` - libraries needed
-- `screenshots/` - images used in this README
 
 ## How to run on your computer
 1. Install Python 3.10 or newer.
@@ -55,4 +54,4 @@ Prices and nutrition values are approximate and made for a college project. This
 - Save user profiles and past plans
 
 ## Author
-Your Name - Your Course, Your College
+Dolvi Tak
