@@ -1,0 +1,40 @@
+food,type,meal,serving,price,calories,protein,carbs,fat
+Poha,Veg,Breakfast,1 plate,20,270,6,50,5
+Oats with milk,Veg,Breakfast,1 bowl,25,300,12,45,7
+Besan chilla,Veg,Breakfast,2 pieces,20,260,13,30,9
+Moong dal chilla,Veg,Breakfast,2 pieces,20,230,14,28,6
+Idli with sambar,Veg,Breakfast,3 pieces,25,250,9,48,3
+Paneer paratha,Veg,Breakfast,1 piece,35,350,14,38,16
+Upma,Veg,Breakfast,1 plate,20,250,6,40,7
+Sprouts salad,Veg,Breakfast,1 bowl,15,180,12,28,2
+Boiled eggs,Non-Veg,Breakfast,3 eggs,21,230,19,2,15
+Egg omelette with bread,Non-Veg,Breakfast,1 omelette + 2 slices,30,300,16,24,15
+Chicken sandwich,Non-Veg,Breakfast,1 sandwich,50,350,22,35,12
+Dal with roti and sabzi,Veg,Lunch,1 thali,60,550,20,85,12
+Rajma chawal,Veg,Lunch,1 plate,55,520,18,85,8
+Chole with rice,Veg,Lunch,1 plate,60,550,19,88,11
+Paneer bhurji with roti,Veg,Lunch,2 roti + 1 bowl,80,500,24,45,24
+Soya chunk curry with rice,Veg,Lunch,1 plate,45,480,28,60,10
+Curd rice,Veg,Lunch,1 bowl,30,320,10,52,7
+Veg khichdi with curd,Veg,Lunch,1 plate,35,400,14,65,8
+Chicken curry with rice,Non-Veg,Lunch,1 plate,100,600,35,65,20
+Egg curry with roti,Non-Veg,Lunch,2 roti + 2 eggs,60,480,22,50,19
+Fish curry with rice,Non-Veg,Lunch,1 plate,120,520,30,60,15
+Roasted chana,Veg,Snack,1 handful,15,120,7,18,2
+Banana,Veg,Snack,1 piece,8,105,1,27,0
+Peanuts,Veg,Snack,30 g,10,170,7,5,14
+Milk,Veg,Snack,1 glass,15,150,8,12,8
+Curd,Veg,Snack,1 bowl,15,100,6,8,5
+Fruit bowl,Veg,Snack,1 bowl,30,120,2,30,1
+Sprouts chaat,Veg,Snack,1 bowl,20,150,9,24,2
+Boiled egg snack,Non-Veg,Snack,2 eggs,14,150,12,1,10
+Chicken tikka,Non-Veg,Snack,4 pieces,60,200,25,3,9
+Dal with roti,Veg,Dinner,2 roti + 1 bowl,40,400,16,62,8
+Mixed veg with roti,Veg,Dinner,2 roti + 1 bowl,35,330,9,55,8
+Paneer sabzi with roti,Veg,Dinner,2 roti + 1 bowl,80,480,22,45,22
+Tofu stir fry,Veg,Dinner,1 bowl,70,300,18,15,18
+Veg pulao with raita,Veg,Dinner,1 plate,50,400,10,65,10
+Grilled chicken with salad,Non-Veg,Dinner,1 plate,120,350,38,8,16
+Chicken curry with roti,Non-Veg,Dinner,2 roti + 1 bowl,100,520,34,45,20
+Fish fry with salad,Non-Veg,Dinner,1 plate,130,320,28,10,18
+Egg fried rice,Non-Veg,Dinner,1 plate,60,450,15,60,16
